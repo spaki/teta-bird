@@ -1,4 +1,4 @@
 # teta-bird
 study for flappy bird game
 
-[demo](assets\demo.gif)
+![demo](assets/demo.gif)
